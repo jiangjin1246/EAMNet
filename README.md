@@ -1,4 +1,4 @@
-<div align="center">
+<p align="center">
 <h1>EAMNet</h1>
 <h3>EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection</h3>
 
