@@ -7,7 +7,7 @@
 <sup>2</sup> College of Information Technology (CIT), United Arab Emirates University, Abu Dhabi, United Arab Emirates  
 <sup>3</sup> School of Information Network Security, People’s Public Security University of China, Beijing, China
 
-**This repository is the official implementation of the paper "EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection", published on TGRS 2025.**
+**This repository is the official implementation of the paper "EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection", published in TGRS 2025.**
 </div>
 
 
