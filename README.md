@@ -1,6 +1,14 @@
 <p align="center">
-<h1>EAMNet</h1>
-<h3>EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection</h3>
+<h1>EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection</h1>
+
+[**Jin Jiang**]<sup>1</sup>, [**Shengcai Liao**](https://scholar.google.com/citations?user=UQ_bInoAAAAJ)<sup>2 :email: </sup>, [**Xiaoyuan Yang**]<sup>1</sup>, and [**Kangqing Shen**]<sup>3</sup>
+
+<sup>1</sup> School of Mathematical Sciences, Beihang University, Beijing, China  
+<sup>2</sup> College of Information Technology (CIT), United Arab Emirates University (UAEU), Al Ain, Abu Dhabi, United Arab Emirates  
+<sup>3</sup> School of Information Network Security, People’s Public Security University of China, Beijing, China.
+
+**This repository is the official implementation of the paper "EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection", published on TGRS 2025.**
+
 
 ## 📑 Abstract
 Infrared small target detection (ISTD) is essential for various fields. Recent approaches based on existing network structures including convolutional neural networks (CNNs), Transformers, and diffusion models, still face challenges in balancing accuracy and efficiency. To address this problem, this paper proposes an Efficient Adaptive Mamba Network (EAMNet) based on the advanced Mamba structure, which effectively models long-range dependencies while maintaining linear complexity, enabling EAMNet to achieve superior detection performance while significantly improving efficiency. First, a Mamba-based UNet architecture is introduced, which processes separated features in parallel, making it highly efficient with a low parameter count and computational cost. To better adapt the Mamba-based framework to the unique characteristics of infrared images, such as low contrast and small target sizes, we propose an adaptive filter module (AFM) that applies adaptive filtering by predicting filter parameters through an additional designed sub-network, enhancing the boundaries and visibility of infrared targets. To further enhance model performance and ensure efficient feature fusion, we propose a shared adaptive spatial attention module (SASAM), which enables a more compact and efficient feature representation in generating spatial attention maps, while minimizing additional computational overhead. Extensive experiments on public benchmarks demonstrate the effectiveness of the proposed EAMNet in both improving accuracy and efficiency compared to existing state-of-the-art methods. Besides, ablation experiments verify the effectiveness of each module.
