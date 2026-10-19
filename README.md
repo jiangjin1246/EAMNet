@@ -1,11 +1,8 @@
 <div align="center">
 <h1>EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection</h1>
 
-**Jin Jiang**<sup>1</sup>, **Shengcai Liao**<sup>2 :email: </sup>, **Xiaoyuan Yang**<sup>1 :email: </sup>, and **Kangqing Shen**<sup>3</sup>
+**Jin Jiang**, **Shengcai Liao**<sup> :email: </sup>, **Xiaoyuan Yang**<sup> :email: </sup>, and **Kangqing Shen**
 
-<sup>1</sup> School of Mathematical Sciences, Beihang University, Beijing, China  
-<sup>2</sup> College of Information Technology (CIT), United Arab Emirates University, Abu Dhabi, United Arab Emirates  
-<sup>3</sup> School of Information Network Security, People’s Public Security University of China, Beijing, China
 
 **This repository is the official implementation of the paper "EAMNet: Efficient Adaptive Mamba Network for Infrared Small Target Detection", published in TGRS 2025.**
 </div>
